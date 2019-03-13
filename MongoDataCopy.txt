@@ -1,0 +1,36 @@
+{
+    "isbn": "03091901",
+    "title": "Oliver Twist",
+    "description": "Story about an orphan",
+    "author": "Charles Dickens",
+    "publisher": "Prestige",
+    "published_year": "1840",
+    "updated_date": {
+        "$date": "2019-03-09T11:52:53.437Z"
+    },
+    "__v": 0
+},
+{
+    "isbn": "03091902",
+    "title": "David Copperfield",
+    "description": "Story about an orphan",
+    "author": "Charles Dickens",
+    "publisher": "Prestige",
+    "published_year": "1837",
+    "updated_date": {
+        "$date": "2019-03-09T11:52:53.437Z"
+    },
+    "__v": 0
+},
+{
+    "isbn": "03091903",
+    "title": "A Christmas Carol",
+    "description": "Past present and future - An enchanting tale of a greedy man turning over a new leaf ",
+    "author": "Charles Dickens",
+    "publisher": "Prestige",
+    "published_year": "1855",
+    "updated_date": {
+        "$date": "2019-03-09T11:52:53.437Z"
+    },
+    "__v": 0
+}
